@@ -1,4 +1,4 @@
-# ✈️ JetPack Flight Sim
+# JetPack Flight Sim
 
 <p align="center">
 
@@ -13,12 +13,12 @@
 A <b>3D Jetpack Flight Simulation</b> developed as my <b>Class Thesis Project</b>, featuring a custom jetpack system, fuel management, overheating mechanics, and responsive aerial movement built on Unity's Third Person Controller.
 </p>
 
-> **🎓 Class Thesis Project**  
+> ** Class Thesis Project**  
 > This project was developed to explore gameplay programming by extending Unity's Third Person Controller with a custom jetpack system. The focus was on creating smooth flight mechanics while balancing gameplay through fuel consumption, overheating, and resource management.
 
 ---
 
-# 📖 Overview
+# Overview
 
 **JetPack Flight Sim** is a gameplay prototype that combines traditional third-person movement with a custom jetpack flight system.
 
@@ -26,7 +26,7 @@ Built as my class thesis project, it demonstrates how an existing character cont
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 <p align="center">
     <img src="1.png" width="450">
@@ -39,31 +39,32 @@ Built as my class thesis project, it demonstrates how an existing character cont
 <p align="center">
     <img src="3.png" width="450">
 </p>
----
-
-# ✨ Features
-
-- 🚀 Jetpack Flight Mechanics
-- 🎮 Third Person Gameplay
-- ⛽ Fuel Consumption System
-- 🔥 Jetpack Overheating
-- 🛢️ Collectible Fuel Pickups
-- 📊 Real-Time Fuel & Heat UI
-- ⚙️ Configurable Flight Parameters
-- 🎨 Smooth Character Animation
 
 ---
 
-# 🎯 Gameplay Systems
+# Features
 
-### 🎮 Player
+-  Jetpack Flight Mechanics
+-  Third Person Gameplay
+-  Fuel Consumption System
+-  Jetpack Overheating
+-  Collectible Fuel Pickups
+-  Real-Time Fuel & Heat UI
+-  Configurable Flight Parameters
+-  Smooth Character Animation
+
+---
+
+# Gameplay Systems
+
+### Player
 
 - Third-person movement
 - Walking & running
 - Custom jetpack controls
 - Smooth movement transitions
 
-### 🚀 Jetpack
+### Jetpack
 
 - Flight movement
 - Fuel consumption
@@ -71,14 +72,14 @@ Built as my class thesis project, it demonstrates how an existing character cont
 - Overheating & cooldown
 - Adjustable flight settings
 
-### 🎁 Gameplay
+### Gameplay
 
 - Fuel pickups
 - Resource management
 - Gameplay balancing
 - Interactive UI feedback
 
-### 🖥️ User Interface
+### User Interface
 
 - Gameplay HUD
 - Fuel Indicator
@@ -86,7 +87,7 @@ Built as my class thesis project, it demonstrates how an existing character cont
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 | Category | Technologies |
 |----------|--------------|
@@ -98,7 +99,7 @@ Built as my class thesis project, it demonstrates how an existing character cont
 
 ---
 
-# 🎮 Controls
+# Controls
 
 | Action | Key |
 |--------|-----|
@@ -109,7 +110,7 @@ Built as my class thesis project, it demonstrates how an existing character cont
 
 ---
 
-# 📚 What I Learned
+# What I Learned
 
 - Extending Unity's Third Person Controller
 - Gameplay system integration
@@ -121,7 +122,7 @@ Built as my class thesis project, it demonstrates how an existing character cont
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 - Multiple jetpack types
 - Flight challenges
@@ -129,10 +130,10 @@ Built as my class thesis project, it demonstrates how an existing character cont
 - Dynamic weather
 - Better particle effects
 - Advanced flight physics
-- 
+
 ---
 
-# 👨‍💻 My Role
+# My Role
 
 This project was developed independently as my **Class Thesis Project**.
 
@@ -147,7 +148,7 @@ This project was developed independently as my **Class Thesis Project**.
 
 ---
 
-# 🙏 Acknowledgements
+# Acknowledgements
 
 This project uses **Unity's Third Person Controller** as the foundation for the player movement system.
 
@@ -156,5 +157,5 @@ The custom jetpack mechanics, fuel management, overheating system, gameplay inte
 ---
 
 <p align="center">
-⭐ If you found this project interesting, consider giving it a star!
+ If you found this project interesting, consider giving it a star!
 </p>
