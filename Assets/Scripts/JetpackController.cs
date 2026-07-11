@@ -84,9 +84,6 @@ public class JetpackController : MonoBehaviour
             // Not jetpacking, either grounded (refill) or apply gravity mid-air
             if (grounded)
             {
-                if (groundRefillRate > 0f)
-                    fuelManager.RefillFuel(groundRefillRate * dt);
-
                 // when grounded verticalSpeed doesn't accumulate upward
                 if (verticalSpeed > groundedVertical) verticalSpeed = groundedVertical;
 
